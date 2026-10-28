@@ -1,29 +1,26 @@
-## 🚀 Featured Projects
+<h1 align="center">Hi 👋, I'm Sokunbi Tantoolorun Oluwaferanmi</h1>
+<h3 align="center">Frontend Developer | React, JavaScript & TypeScript | Building responsive, modern web experiences</h3>
 
-### 🏡 Real Estate Website
-A responsive real-estate listing interface for exploring properties and viewing property details.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deorum-1&label=Profile%20views&color=0e75b6&style=flat" alt="deorum-1" /> </p>
 
-- **Focus:** Responsive UI, property listings, search and filtering
-- **Stack:** React, JavaScript, Tailwind CSS
-- **[Source code](https://github.com/Deorum-1/Real-estate-website)** · **[Live demo](https://real-estate-website-five-bice.vercel.app/)**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deorum-1" alt="deorum-1" /></a> </p>
 
-### 🎨 Agency.ai
-A frontend website project focused on modern digital experiences.
+<p align="left"> <a href="https://twitter.com/derealrum" target="blank"><img src="https://img.shields.io/twitter/follow/derealrum?logo=twitter&style=for-the-badge" alt="derealrum" /></a> </p>
 
-- **Focus:** Add the actual features and design decisions from your implementation
-- **Stack:** Confirm the technologies used in this repository
-- **[Source code](https://github.com/Deorum-1/Agency.ai)** · Live demo: add your verified deployment URL
+- 🌱 I’m currently learning **Nextjs**
 
-### 🧠 Quiz App
-An interactive quiz application.
+- 📫 How to reach me **feranmiisaac622@gmail.com**
 
-- **Focus:** Document the actual question flow, scoring, and feedback features
-- **Stack:** Confirm the technologies used
-- **[Source code](https://github.com/Deorum-1/A-quiz-app)** · Live demo: add your verified deployment URL
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/derealrum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="derealrum" height="30" width="40" /></a>
+</p>
 
-### ✨ Creative Website with GSAP
-A visually engaging website showcasing frontend design and animation.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- **Focus:** Document the animations and interactions you implemented
-- **Stack:** React and GSAP, as indicated by the repository name
-- **[Source code](https://github.com/Deorum-1/AWARD-WINNING-WEBSITE-WITH-REACTJS-AND-GSAP)** · Live demo: add your verified deployment URL
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deorum-1&show_icons=true&locale=en&layout=compact" alt="deorum-1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deorum-1&show_icons=true&locale=en" alt="deorum-1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deorum-1&" alt="deorum-1" /></p>
