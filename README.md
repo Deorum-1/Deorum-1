@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sokunbi Tantoolorun Oluwaferanmi</h1>
-<h3 align="center">Frontend Developer | React, JavaScript & TypeScript | Building responsive, modern web experiences</h3>
+<h3 align="center">Software Developer | React, JavaScript & TypeScript | Building responsive, modern web experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deorum-1&label=Profile%20views&color=0e75b6&style=flat" alt="deorum-1" /> </p>
 
