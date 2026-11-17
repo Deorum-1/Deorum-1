@@ -1,3 +1,4 @@
+<body color= "red">
 <h1 align="center">Hi 👋, I'm Sokunbi Tantoolorun Oluwaferanmi</h1>
 <h3 align="center">Software Developer | React, JavaScript & TypeScript | Building responsive, modern web experiences</h3>
 
@@ -24,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deorum-1&show_icons=true&locale=en" alt="deorum-1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deorum-1&" alt="deorum-1" /></p>
+</body>
