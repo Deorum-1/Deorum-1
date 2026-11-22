@@ -1,6 +1,6 @@
 <!-- Animated header (self-hosted: assets/header.svg) -->
 <p align="center">
-  <img src="./assets/header.svg" alt="Sokunbi Oluwaferanmi - Full-Stack Developer" width="100%" />
+  <img src="header.svg" alt="Sokunbi Oluwaferanmi - Full-Stack Developer" width="100%" />
 </p>
 
 <!-- Typing animation -->
