@@ -1,6 +1,6 @@
-<!-- Animated header -->
+<!-- Animated header (self-hosted: assets/header.svg) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=220&section=header&text=Sokunbi%20Oluwaferanmi&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20APIs%20%26%20Web%20Apps&descSize=20&descAlignY=58" alt="Header" width="100%" />
+  <img src="./assets/header.svg" alt="Sokunbi Oluwaferanmi - Full-Stack Developer" width="100%" />
 </p>
 
 <!-- Typing animation -->
