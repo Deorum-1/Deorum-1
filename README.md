@@ -1,17 +1,17 @@
 <!-- Animated header (self-hosted: assets/header.svg) -->
 <p align="center">
-  <img src="header.svg" alt="Sokunbi Oluwaferanmi - Full-Stack Developer" width="100%" />
+  <img src="header.svg" alt="Sokunbi Oluwaferanmi - Software Developer" width="100%" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/Deorum-1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;I+build+APIs+and+web+apps+end+to+end;Smooth+animations+with+GSAP;Open+to+freelance+%26+full-time+roles" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=45&lines=Software+Developer;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Next.js;I+build+reliable+software+end+to+end;Clean+APIs%2C+solid+architecture%2C+polished+UIs;Open+to+freelance+%26+full-time+roles" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
-  I design and build complete web products, from polished, animated front-ends to the APIs and back-end systems that power them, so businesses can launch faster and scale with confidence.
+  I'm a software developer who designs, builds and ships complete products, from well-structured APIs and back-end systems to the polished interfaces people use, so businesses can launch faster and scale with confidence.
 </p>
 
 <p align="center">
@@ -29,9 +29,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **full-stack developer** working across the whole product: **React, Next.js and TypeScript** on the front-end, and **Node.js, APIs and Appwrite** on the back-end. I turn ideas and designs into polished, mobile-first websites and web apps, and I build the APIs behind them. I'm continuing to build more APIs and full-stack projects.
+I'm a **software developer** who works across the whole stack: **Node.js, APIs and Appwrite** on the back-end, and **TypeScript, React and Next.js** on the front-end. I turn ideas and requirements into reliable, maintainable software, from the data layer and API design to mobile-first web apps. I'm continuing to build more APIs and full-stack projects.
 
-I care about four things: **⚡ performance**, **🎯 user experience**, **🧱 clean, well-structured APIs**, and **💬 clear communication from first message to launch**.
+I care about four things: **⚡ performance**, **🧱 clean, well-structured code and APIs**, **🎯 user experience**, and **💬 clear communication from first message to launch**.
 
 ---
 
@@ -39,18 +39,18 @@ I care about four things: **⚡ performance**, **🎯 user experience**, **🧱 
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><h3>🧩</h3><b>Full-stack web apps</b><br/><sub>End-to-end products: UI, API, auth and database in React / Next.js</sub></td>
+    <td align="center" width="33%"><h3>🧩</h3><b>Full-stack applications</b><br/><sub>End-to-end products: UI, API, auth and database in React / Next.js and Node.js</sub></td>
     <td align="center" width="33%"><h3>🔌</h3><b>API development</b><br/><sub>Designing, building and documenting APIs that are clean and easy to consume</sub></td>
-    <td align="center" width="33%"><h3>🔗</h3><b>API & third-party integration</b><br/><sub>Connecting your front-end to services, payments, data and auth</sub></td>
+    <td align="center" width="33%"><h3>🔗</h3><b>Integrations</b><br/><sub>Connecting your systems to third-party services, payments, data and auth</sub></td>
   </tr>
   <tr>
-    <td align="center"><h3>🌐</h3><b>Business & agency websites</b><br/><sub>Fast, responsive sites that present your brand professionally</sub></td>
-    <td align="center"><h3>✨</h3><b>Animated front-ends</b><br/><sub>Smooth scroll and motion effects with GSAP and React</sub></td>
+    <td align="center"><h3>⚙️</h3><b>Back-end systems</b><br/><sub>Server logic, data models and services built to be maintainable and scalable</sub></td>
+    <td align="center"><h3>🌐</h3><b>Web apps & business sites</b><br/><sub>Fast, responsive products that present your brand professionally</sub></td>
     <td align="center"><h3>🎨</h3><b>Design to code</b><br/><sub>Pixel-accurate Figma implementation in reusable components</sub></td>
   </tr>
 </table>
 
-<p align="center"><sub>Also: bug fixes, performance tuning, refactors and responsive clean-ups.</sub></p>
+<p align="center"><sub>Also: bug fixes, performance tuning, refactors, code reviews and responsive clean-ups.</sub></p>
 
 ---
 
@@ -93,20 +93,24 @@ I care about four things: **⚡ performance**, **🎯 user experience**, **🧱 
 
 ## 🛠️ Tech Stack
 
-<p align="center"><b>Front-end</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,html,css&perline=8" alt="Frontend" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+<p align="center"><b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css&perline=8" alt="Languages" />
 </p>
 
 <p align="center"><b>Back-end & APIs</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,appwrite,python,java&perline=8" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,appwrite&perline=8" alt="Backend" />
+</p>
+
+<p align="center"><b>Front-end</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=8" alt="Frontend" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
 </p>
 
 <p align="center"><b>Tools & deployment</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux,blender&perline=8" alt="Tools" />
 </p>
 
-<p align="center">🌱 <b>Currently deepening:</b> Next.js (App Router, server components, performance), API design, TypeScript and testing.<br/>🔨 <b>Currently building:</b> more APIs and full-stack projects.</p>
+<p align="center">🌱 <b>Currently deepening:</b> API design, TypeScript, Next.js (App Router, server components, performance) and testing.<br/>🔨 <b>Currently building:</b> more APIs and full-stack projects.</p>
 
 ---
 
@@ -115,14 +119,14 @@ I care about four things: **⚡ performance**, **🎯 user experience**, **🧱 
 <table align="center">
   <tr>
     <td align="center" width="25%"><h3>1️⃣</h3><b>Discovery</b><br/><sub>Goals, scope, timeline and budget</sub></td>
-    <td align="center" width="25%"><h3>2️⃣</h3><b>Design & plan</b><br/><sub>Review designs, plan the API and agree on milestones</sub></td>
+    <td align="center" width="25%"><h3>2️⃣</h3><b>Design & plan</b><br/><sub>Plan the architecture and API, and agree on milestones</sub></td>
     <td align="center" width="25%"><h3>3️⃣</h3><b>Build</b><br/><sub>Regular updates and working previews</sub></td>
     <td align="center" width="25%"><h3>4️⃣</h3><b>Launch & support</b><br/><sub>Testing, deployment and handover</sub></td>
   </tr>
 </table>
 
 <p align="center">
-  ✅ Clear communication &nbsp;·&nbsp; ✅ Clean, maintainable code &nbsp;·&nbsp; ✅ Mobile-first builds &nbsp;·&nbsp; ✅ Live, deployed projects
+  ✅ Clear communication &nbsp;·&nbsp; ✅ Clean, maintainable code &nbsp;·&nbsp; ✅ Well-documented APIs &nbsp;·&nbsp; ✅ Live, deployed projects
 </p>
 
 ---
@@ -149,7 +153,7 @@ I care about four things: **⚡ performance**, **🎯 user experience**, **🧱 
 ## 📫 Let's Work Together
 
 <p align="center">
-  Need a website, an API, or a complete web app? Tell me what you're building, your timeline and your budget, and I'll get back to you promptly.
+  Need software built, an API designed, or a complete web app shipped? Tell me what you're building, your timeline and your budget, and I'll get back to you promptly.
 </p>
 
 <p align="center">
