@@ -1,5 +1,5 @@
 <h1 align="center">Sokunbi Oluwaferanmi Tantoolorun</h1>
-<h3 align="center">Frontend / Full-Stack Developer · React · Next.js · TypeScript</h3>
+<h3 align="center">Full-Stack Developer · React · Next.js · TypeScript</h3>
 
 <p align="center">
   I build fast, responsive, animated web experiences that help businesses look credible and convert visitors into customers.
